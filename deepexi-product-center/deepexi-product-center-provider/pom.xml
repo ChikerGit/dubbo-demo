@@ -143,12 +143,6 @@
         </plugins>
     </build>
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>edas-oss-plugin-central</id>
-            <url>http://nexus.deepexi.top/repository/maven-public/</url>
-        </pluginRepository>
-    </pluginRepositories>
 
     <dependencyManagement>
         <dependencies>
