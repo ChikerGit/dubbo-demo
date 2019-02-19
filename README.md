@@ -12,9 +12,13 @@ dubbo开发demo
 - mysql
 - maven
 
+## 项目中使用到的私有包
+
+- [optimus-common](https://github.com/deepexi/optimus-commons)
+
 ## deepexi-user-center
 
-该微服务下实现用户管理CRUD
+该微服务下实现要求的功能
 
 
 ## deepexi-product-center
