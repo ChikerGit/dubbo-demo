@@ -14,7 +14,7 @@ dubbo开发demo
 
 ## deepexi-user-center
 
-该微服务下实现用户管理CRUD
+该微服务下实现要求的功能
 
 
 ## deepexi-product-center
